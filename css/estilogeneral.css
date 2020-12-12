@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(124, 113, 182);
+}
+
+table {
+    width: 25%;
+
+border-collapse: collapse;
+
+background-color: #f1dd66;
+}
+td {
+
+border: 1px solid black;
+
+text-align: center;
+
+}
+
+#Fichajes{
+    background-color: rgb(255, 115, 0);
+}
+
+#Comienzo_de_temporada{
+    background-color: rgb(255, 0, 119) ;
+}
+
+
+#Datos_interesantes{
+    background-color: rgb(0, 255, 0);
+}
+
+#footer{
+    text-align: center;
+    background-color: rgb(238, 255, 0);
+}
+
+#LISTA{
+    background-color: rgb(223, 119, 217);
+}
